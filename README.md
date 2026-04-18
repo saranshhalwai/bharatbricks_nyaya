@@ -79,3 +79,7 @@ This repository is **Public** and will remain public for at least **30 days** as
 
 ---
 Built for **Bharat Bricks Hacks 2026** | Team **IIT Indore** | Powered by **Databricks**
+
+
+## Dataset
+The files in the folder 'dataset' along with https://www.indiacode.nic.in/bitstream/123456789/20062/2/Hh202345.pdf are the dataset used for the project.
