@@ -1,0 +1,12 @@
+# app.yaml for Nyaya-Sahayak
+name: nyaya-sahayak
+description: AI-Powered Indian Legal Assistant
+command: ["python", "app.py"]
+
+resources:
+  - name: serverless_warehouse
+    type: sql-warehouse
+    valueFrom: 3f1d131cc26b4972
+  - name: embedding_model
+    type: serving-endpoint
+    valueFrom: databricks-bge-large-en

@@ -1,0 +1,13 @@
+gradio==4.44.0
+huggingface-hub<0.26.0
+langdetect
+pyspark
+mlflow
+databricks-sdk
+chromadb
+transformers==4.37.2
+torch
+sentencepiece
+accelerate
+requests
+psutil
